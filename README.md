@@ -13,3 +13,4 @@ Learn to implement and train several hand-on deep learning models applied to dif
   * Model:
   
 * [Face Detection (Python-OpenCV)]
+  * Use-Case: Object Detection
