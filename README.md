@@ -6,3 +6,10 @@ Learn to implement and train several hand-on deep learning models applied to dif
   * Use-Case: Image Classification
   * Dataset: MNIST
   * Model: [Convolutional Neural Network (CNN)](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/blob/main/MNIST_classification/model_CNN.py), [Recurrent Neural Network (RNN)](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/blob/main/MNIST_classification/model_RNN.py)
+  
+* [CIFAR10 Classification (Pytorch)]
+  * Use-Case: Image Classification
+  * Dataset: CIFAR10
+  * Model:
+  
+* [Face Detection (Python-OpenCV)]
