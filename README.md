@@ -17,14 +17,14 @@ Learn to implement and train several hand-on deep learning models applied to dif
   * Model: YOLOv8n
   * Sample Output:
   
-    ![image]()
+    ![image](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/blob/main/Tibame_Object_detection_yolo/object_detection_output.jpg)
     
 * [Semantic Segmentation (YOLO)]
   * Use-Case: Semantic Segmentation
   * Model: YOLOv8n-seg
   * Sample Output:
   
-    ![image]()
+    ![image](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/blob/main/Tibame_Semantic_segmentation-yolo/segmentation_output.jpg)
   
 * [Face Detection (Python-OpenCV)]
   * Use-Case: Face Detection
