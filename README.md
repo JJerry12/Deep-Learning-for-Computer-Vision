@@ -14,3 +14,6 @@ Learn to implement and train several hand-on deep learning models applied to dif
   
 * [Face Detection (Python-OpenCV)]
   * Use-Case: Face Detection
+  * Sample Output:
+    ![image](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/blob/main/Face_detection_python_opencv/face_demo_output.jpg)
+ 
