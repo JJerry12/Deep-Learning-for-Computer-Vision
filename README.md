@@ -12,6 +12,20 @@ Learn to implement and train several hand-on deep learning models applied to dif
   * Dataset: CIFAR10
   * Model:
   
+* [Object Detection (YOLO)]
+  * Use-Case: Object Detection
+  * Model: YOLOv8n
+  * Sample Output:
+  
+    ![image]()
+    
+* [Semantic Segmentation (YOLO)]
+  * Use-Case: Semantic Segmentation
+  * Model: YOLOv8n-seg
+  * Sample Output:
+  
+    ![image]()
+  
 * [Face Detection (Python-OpenCV)]
   * Use-Case: Face Detection
   * Sample Output:
