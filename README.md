@@ -7,10 +7,10 @@ Learn to implement and train several hand-on deep learning models applied to dif
   * Dataset: MNIST
   * Model: [Convolutional Neural Network (CNN)](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/blob/main/MNIST_classification/model_CNN.py), [Recurrent Neural Network (RNN)](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/blob/main/MNIST_classification/model_RNN.py)
   
-* [CIFAR10 Classification (Pytorch)]
+* [CIFAR10 Classification (Pytorch)](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/tree/main/CIFAR10_classification_pytorch)
   * Use-Case: Image Classification
   * Dataset: CIFAR10
-  * Model:
+  * Model: [Convolutional Neural Network (CNN)](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/blob/main/CIFAR10_classification_pytorch/CIFAR10_CNN_pytorch.ipynb), [ResNet (Transfer Learning)](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/blob/main/CIFAR10_classification_pytorch/CIFAR10_ResNet_pytorch.ipynb)
   
 * [Object Detection (YOLO)](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/blob/main/Tibame_Object_detection_yolo/object_detection_YOLOv8.ipynb)
   * Use-Case: Object Detection
