@@ -26,6 +26,7 @@ Learn to implement and train several hand-on deep learning models applied to dif
   * Sample Output:
   
     ![image](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/blob/main/Tibame_Semantic_segmentation-yolo/segmentation_output.jpg)
+    
     (Source: https://reurl.cc/eXlVOj)
   
 * [Face Detection (Python-OpenCV)](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/blob/main/Face_detection_python_opencv/face_detection.ipynb)
