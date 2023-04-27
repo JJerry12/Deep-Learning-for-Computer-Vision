@@ -2,7 +2,7 @@
 Learn to implement and train several hand-on deep learning models applied to different recognition tasks in the field of computer vision (CV).
 
 ## Contents
-* [MNIST Classification (Pytorch)](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/blob/main/MNIST_classification_pytorch/MNIST_pytorch.ipynb)
+* [MNIST Classification (Pytorch)](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/tree/main/MNIST_classification_pytorch)
   * Use-Case: Image Classification
   * Dataset: MNIST
   * Model: [Convolutional Neural Network (CNN)](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/blob/main/MNIST_classification_pytorch/model_CNN.py), [Long Short-Term Memory (LSTM)](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/blob/main/MNIST_classification_pytorch/model_LSTM.py)
