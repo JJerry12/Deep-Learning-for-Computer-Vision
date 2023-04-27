@@ -18,6 +18,7 @@ Learn to implement and train several hand-on deep learning models applied to dif
   * Sample Output:
   
     ![image](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/blob/main/Tibame_Object_detection_yolo/object_detection_output.jpg)
+    
     (Source: https://reurl.cc/ml5YWV)
     
 * [Semantic Segmentation (YOLO)](https://github.com/JJerry12/Deep-Learning-for-Computer-Vision/blob/main/Tibame_Semantic_segmentation-yolo/segmentation_YOLOv8.ipynb)
